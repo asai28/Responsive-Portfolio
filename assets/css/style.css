@@ -223,13 +223,16 @@ p {
 
 img{
   display: block;
-  width: auto;
-  height: auto;
+  width: 200px;
+  height: 200px;
   max-width: 100%;
   max-height: 90%;
   margin: 20px auto;
 }
 
+#techSkills{
+  font-size: 0.75rem;
+}
 
 @media screen and (max-width: 640px) {
   nav {
